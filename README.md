@@ -64,10 +64,7 @@ there is no need to create an account per user, you can use the guest account us
 
 ## Delivery
 
-To deliver the challenge, you must make a pull request to this repository:
+To deliver the challenge, create a new repository on Github with your entire solution and sent to us by e-mail.
 
-<a href="https://github.com/carguero/frontend-challenge">carguero/frontend-challenge (github.com)</a>
-
-Any other links or materials used to build the app can also be sent here, such as: prototypes, diagrams, sketches, etc.
 Don't forget to create a README.md file containing instructions for building the app locally, as well as any other links or materials used to build 
 the app, such as: prototypes, diagrams, sketches, etc.
