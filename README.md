@@ -1,7 +1,7 @@
 # frontend-challenge
 
 ## Introduction
-Hi! Thank you for your interest in participating in our selection process for dev front-end in Carguero
+Hi! Thank you for your interest in participating in our selection process for dev front-end in Carguero.
 The objective of the proposed challenge is to allow a better assessment of your skills as a candidate for the front-end vacancy. This challenge must be done 
 only by you. Its implementation and choice of tools may be questioned at another stage.
  
