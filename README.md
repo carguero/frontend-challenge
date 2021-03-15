@@ -3,9 +3,9 @@
 ## Introduction
 Hi! Thank you for your interest in participating in our selection process for dev front-end in Carguero.
 The objective of the proposed challenge is to allow a better assessment of your skills as a candidate for the front-end vacancy. This challenge must be done 
-only by you. Its implementation and choice of tools may be questioned at another stage.
+only by you. It's implementation and choice of tools may be questioned at another stage.
  
-The challenge
+## The challenge
 Using the free movie API <a href="https://developers.themoviedb.org/3/getting-started/introduction" target="_blank">themoviedb</a> in version 3, 
 you will be responsible for creating a listing of the most popular films of the day, by referring to the 
 <a href="https://developers.themoviedb.org/3/discover/movie-discover">GET /discover/movie</a> endpoint to make the listing. 
