@@ -15,10 +15,6 @@ We have insights that lead us to believe that users on this list tend to have a 
 Therefore, you will also be responsible for creating film filters by genre in that listing. Note that a new endpoint must be consulted to obtain a list of 
 possible genres to be filtered, <a href="https://developers.themoviedb.org/3/genres/get-movie-list">GET /genre/movie/list</a>.
 To ensure that the user finds the movie they are looking for, this list should be paged whenever there is no active genre filter.
-It should be possible to rank <a href="https://developers.themoviedb.org/3/movies/rate-movie">POST /movie/{movie_id}/rating</a> 
-rating and favor <a href="https://developers.themoviedb.org/3/account/mark-as-favorite">POST /account/{account_id}/favorite</a> the movies that the user wants, 
-there is no need to create an account per user, you can use the guest account using this <a href="https://developers.themoviedb.org/3/authentication/create-guest-session">GET /authentication/guest_session/new</a>
- 
 
 ## Functional requirements
  
@@ -29,9 +25,6 @@ there is no need to create an account per user, you can use the guest account us
 - The user must be able to remove filters and the listing must be updated according to the removed filter
 - The user must have access to another page with details about the film, by clicking on an item in the listing
 - The user should be able to return to the movie listing page with the filters still active
-- User must be able to add movie to favorites
-- The user must be able to rank the films
-- Create login using guest account
 - Any type of pagination is accepted, but keep in mind when choosing any form of pagination.
 
 ## Non-functional requirements
