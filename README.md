@@ -1,4 +1,4 @@
-# frontend-challenge
+# Front end coding challenge
 
 ## Introduction
 Hi! Thank you for your interest in participating in our selection process for dev front-end in Carguero.
